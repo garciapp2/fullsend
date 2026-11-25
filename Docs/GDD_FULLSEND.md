@@ -146,7 +146,7 @@ GELADA.
 Passou do tempo máximo + 5 s: "A PIZZA ESFRIOU". Fim do turno.
 
 ### Nota e gorjeta
-A nota sai do tempo.: S abaixo de 85% do tempo máximo, E perto do limite, com A, B, C e D entre eles. A
+A nota sai do tempo: S abaixo de 85% do tempo máximo, E perto do limite, com A, B, C e D entre eles. A
 gorjeta da entrega é o que você pegou no caminho, mais um bônus pela nota (S paga mais).
 
 ## Modos
@@ -197,8 +197,8 @@ Duas entregas no mesmo bioma nunca são iguais.
 ## Perigos
 
 ### Regra
-Todo perigo avisa antes: cúpula ou coluna translúcida onde vai cair, anel no chão, linha de mira. Os perigos são os do
-com o mesmo tamanho, a mesma hitbox e o mesmo tempo. Cada entrega tem um orçamento de perigos que sobe de 10 para
+Todo perigo avisa antes: cúpula ou coluna translúcida onde vai cair, anel no chão, linha de mira. Cada perigo tem tamanho,
+hitbox e tempo fixos. Cada entrega tem um orçamento de perigos que sobe de 10 para
 30.
 
 ### Lasers
@@ -304,12 +304,13 @@ Pousos (um som por nota), contagem, gorjeta, tombo, batida, turbo, avisos dos pe
 
 ### Direção de arte: HQ
 Contorno de tinta, meio-tom e cores chapadas. Uma paleta por bioma, e a interface troca de cor junto.
-A interface é inclinada como a, com as fontes Franklin Gothic Heavy Italic e Akzidenz.
+A interface é inclinada, com as fontes Franklin Gothic Heavy Italic e Akzidenz.
 
 Tudo em 3D com shader toon. Nada de foto realista, nada de cor fora da paleta.
 
 ### Assets de terceiros (provisório)
-o protótipo; para publicar, precisam ser trocados por próprios ou licenciados.
+Os modelos, as texturas, os sons e a fonte servem para o protótipo; para publicar, precisam ser trocados por próprios
+ou licenciados.
 
 ## Rejogabilidade, balanceamento e estados
 
