@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rusty 2
+  m_Shader: {fileID: 4800000, guid: 8684afd02efdbd742b7448f5f83fe2fc, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _TRIPLANAR1_ON
+  - _TRIPLANAR2_ON
+  - _TRIPLANAR3_ON
+  - _TRIPLANAR4_ON
+  - _TRIPLANAR5_ON
+  m_InvalidKeywords:
+  - _METALLICGLOSSMAP
+  - _NORMALMAP
+  - _SPECGLOSSMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 00ea2783f66c3734aae6f00d9f66bc9b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _FifthTex:
+        m_Texture: {fileID: 2800000, guid: 49f942ef9c091fe4997aee486b2a65af, type: 3}
+        m_Scale: {x: 0.3, y: 0.3}
+        m_Offset: {x: 0, y: 0}
+      _FourthTex:
+        m_Texture: {fileID: 2800000, guid: 2f41c080818d6c141a02ebd072e7dc0b, type: 3}
+        m_Scale: {x: 0.4, y: 0.4}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2bd26657c90d11d44b230bbb2a9a99e0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _SecondTex:
+        m_Texture: {fileID: 2800000, guid: 4c9988688e0b38b45b8f1b893092ce18, type: 3}
+        m_Scale: {x: 0.3, y: 0.3}
+        m_Offset: {x: 0, y: 0}
+      _ThirdTex:
+        m_Texture: {fileID: 2800000, guid: 49f942ef9c091fe4997aee486b2a65af, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BumpScale: 0.5
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DstBlend: 0
+      _Emis: 1
+      _GlossMapScale: 0.522
+      _Glossiness: 0.46
+      _GlossyReflections: 1
+      _H: 0
+      _Metallic: 0.29
+      _Mode: 0
+      _NormalStr: 0
+      _OcclusionStrength: 0.331
+      _Offset: 0
+      _Parallax: 0.005
+      _S: 1
+      _Scale1: 1
+      _Scale2: 1
+      _Scale3: 3
+      _Scale4: 1
+      _Scale5: 1
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _TextureInfluence: 0
+      _TransitionLength: 50
+      _TransitionOffset: 0
+      _TransitionTexInflu: 10
+      _TransitionTexMin: 0.48
+      _TransitionTexSmooth: 0.61
+      _Triplanar1: 1
+      _Triplanar2: 1
+      _Triplanar3: 1
+      _Triplanar4: 1
+      _Triplanar5: 1
+      _UVSec: 0
+      _V: 1
+      _VertexColor: 0
+      _WaveScale: 10
+      _WaveStr: 10
+      _ZWrite: 1
+      __dirty: 0
+    m_Colors:
+      _Color: {r: 0.13207549, g: 0.13207549, b: 0.13207549, a: 1}
+      _ColorFifth: {r: 51.98414, g: 2.5966282, b: 0, a: 0}
+      _ColorFourth: {r: 1, g: 0.25382856, b: 0, a: 0.08627451}
+      _ColorSecond: {r: 0.1, g: 0.1, b: 0.1, a: 1}
+      _ColorThird: {r: 0, g: 0, b: 0, a: 0.14117648}
+      _DetalHSV: {r: 0, g: -1.2, b: -0.92, a: 0}
+      _EmissionColor: {r: 0.50933313, g: 1.0433807, b: 1.3668181, a: 1}
+      _FifthRemap: {r: 0.8138264, g: 1, b: 0, a: 0}
+      _FourthRemap: {r: 0.175, g: 0.2356383, b: 0, a: 0}
+      _Fourth_HSV: {r: 0, g: 0, b: 0, a: 0}
+      _SecondRemap: {r: 0.5488475, g: 0.6552308, b: 0, a: 0}
+      _Second_HSV: {r: 0, g: 0, b: 0, a: 0}
+      _ThirdRemap: {r: 0.058333337, g: 0.12083332, b: 0, a: 0}
+      _Third_HSV: {r: 0, g: 0, b: 0, a: 0}
+      _Tiling_World: {r: 0.01, g: 0.01, b: 0.01, a: 0}
+      _Tint: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c9ec722e4a6d81b8a737e16ff4eaf7c, type: 3}
+  m_Name: Miniboss_SkeletonKing
+  m_EditorClassIdentifier:
+  enemyName: 50
+  material: {fileID: 2100000, guid: 487d25abe8831714a8397286fa1d0b45, type: 2}
+  animation: {fileID: 11400000, guid: fd0a4851eba94e04588951b9c0c66438, type: 2}
+  rendererOffset: {x: 0, y: 0, z: 0}
+  rendererRotationOffset: {x: -90, y: 0, z: 0}
+  rendererScale: 4
+  colliderRadius: 1.25
+  overrideHeight: 0
+  colliderCenter: {x: 0, y: 0, z: 0}
+  hp: 320
+  damage: 40
+  shield: 0
+  isPoison: 0
+  knockbackResistance: 4
+  nukeProtection: 1
+  mass: 250
+  speed: 8
+  isFlying: 0
+  teleportCooldown: 20
+  isRunningFromPlayer: 0
+  minStayAtDistance: 0
+  maxStayAtDistance: 0
+  xp: 1
+  despawnTime: 0
+  canBeElite: 1
+  canBeExecuted: 1
+  maxSuckTime: 15
+  specialAttacks:
+  - isEnabled: 1
+    priority: 0
+    attackName: BonePillarsPredictiveMultiple
+    attackPrefab: {fileID: 1709254077376921, guid: 5a9a29ee0508d944ba921676d7631eb8, type: 2}
+    attackChargeTime: 1
+    attackRadius: 5
+    attackCooldown: 15
+    attackCooldownMax: 0
+    initialCooldown: 0
+    duration: 0
+    nextSpecialAttackCooldown: 6
+    triggerDistance: 9999
+    endLag: 1
+    damageMultiplier: 0.75
+  - isEnabled: 1
+    priority: 0
+    attackName: BonePillarsCircles
+    attackPrefab: {fileID: 1709254077376921, guid: cd5ae14ecf7a37c44b2046e84677e0cd, type: 2}
+    attackChargeTime: 1
+    attackRadius: 6
+    attackCooldown: 15
+    attackCooldownMax: 0
+    initialCooldown: 0
+    duration: 0
+    nextSpecialAttackCooldown: 6
+    triggerDistance: 9999
+    endLag: 1
+    damageMultiplier: 0.75
+  - isEnabled: 1
+    priority: 0
+    attackName: LaserTargetAttack
+    attackPrefab: {fileID: 1709254077376921, guid: 8ae86bd351abd3548822fbcdced9def2, type: 2}
+    attackChargeTime: 1
+    attackRadius: 4
+    attackCooldown: 40
+    attackCooldownMax: 0
+    initialCooldown: 0
+    duration: 8
+    nextSpecialAttackCooldown: 8
+    triggerDistance: 400
+    endLag: 5
+    damageMultiplier: 0.05
+  maps: 8
+  minStage: 0
+  creditCost: 40
+  canSpawnAfterTime: 0
+  forceName:
+    m_TableReference:
+      m_TableCollectionName:
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

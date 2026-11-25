@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16d6193f1b272d88613c059582a0608b, type: 3}
+  m_Name: GolemBoss
+  m_EditorClassIdentifier:
+  AnimationFPS: 5
+  Animations:
+  - Name: Walking
+    Meshes:
+    - {fileID: 4300000, guid: 661160c563a7d8443a102343e60cd4ac, type: 2}
+    - {fileID: 4300000, guid: 2f80366728d17f84a98d1543326762f5, type: 2}
+    - {fileID: 4300000, guid: a81dbb69a78e0fe4fbbe882a3d093c81, type: 2}
+    - {fileID: 4300000, guid: 4d0c2fe77e346504ab40328c55842644, type: 2}
+    - {fileID: 4300000, guid: 6a241158b02549c46bfb9136834c29eb, type: 2}
+    - {fileID: 4300000, guid: 70a91f4169cf2ce4488439f73c39faf9, type: 2}
+    - {fileID: 4300000, guid: fe1788100487dbe4fa75734eb5d2c65c, type: 2}
+    - {fileID: 4300000, guid: 4279ed3673d8d5641aefca236fc13786, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16d6193f1b272d88613c059582a0608b, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier:
+  AnimationFPS: 7
+  Animations:
+  - Name: GolemWalk
+    Meshes:
+    - {fileID: 4300000, guid: 907f05692e36efd4e85340d9c6d7bf70, type: 2}
+    - {fileID: 4300000, guid: c202829cae6bd4043be14448bc5d0083, type: 2}
+    - {fileID: 4300000, guid: dfcbec15e74f4d041a83209841a4cce2, type: 2}
+    - {fileID: 4300000, guid: ea0509c4df703584eb6389a60445f91c, type: 2}
+    - {fileID: 4300000, guid: 06869f1d3af2ec44583f2eae1a3230cb, type: 2}
+    - {fileID: 4300000, guid: 7c273b1e0575a5a44bb94fedb0e13708, type: 2}
+    - {fileID: 4300000, guid: fc21a0d1c200f8340839c512b1861510, type: 2}
+    - {fileID: 4300000, guid: 9b4241c2b7ab4834f839ee72518c6c7a, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16d6193f1b272d88613c059582a0608b, type: 3}
+  m_Name: GoblinNormal
+  m_EditorClassIdentifier:
+  AnimationFPS: 6
+  Animations:
+  - Name: Walking (1)
+    Meshes:
+    - {fileID: 4300000, guid: 2e41de964e2c8204cb8608078eb0db09, type: 2}
+    - {fileID: 4300000, guid: 3cbe1890f9305984f9e8a44297f3dac8, type: 2}
+    - {fileID: 4300000, guid: d7b50ddd6f1e3204cae28b707ed41379, type: 2}
+    - {fileID: 4300000, guid: e800623c33cec914b8a6fdfe49938811, type: 2}
+    - {fileID: 4300000, guid: 3d07f088ea999454a9628d9041a074b5, type: 2}
+    - {fileID: 4300000, guid: 948d31b56eee28946a80c38ebcf84399, type: 2}
+    - {fileID: 4300000, guid: a7319af5a526e73449da9c0aeb586f43, type: 2}
+    - {fileID: 4300000, guid: f2f38ec4ab3b1264da6d0b6426cb0841, type: 2}

@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_VFX_Explosion_AgencyBomb
+  m_Shader: {fileID: 4800000, guid: 48bf37e3eca5b234e985a4cc8e045966, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHATEST_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _Texture:
+        m_Texture: {fileID: 2800000, guid: da56451d7ba412748a0ef6a901bdd60f, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _texcoord3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BallMin: 0.5
+      _BallSmooth: 0.124
+      _BlendOp: 0
+      _BumpScale: 1
+      _CameraFadingEnabled: 0
+      _CameraFarFadeDistance: 2
+      _CameraNearFadeDistance: 1
+      _ColorMode: 0
+      _Cull: 2
+      _Cut: 0
+      _Cutoff: 0.1
+      _D: 0.2
+      _DetailNormalMapScale: 1
+      _DistortionBlend: 0.5
+      _DistortionEnabled: 0
+      _DistortionStrength: 1
+      _DistortionStrengthScaled: 0
+      _DstBlend: 0
+      _EdgeLength: 15
+      _EdgeMin: 0.03
+      _EdgeSmooth: 0.1
+      _EmissionEnabled: 0
+      _Fade: 0
+      _FlipbookMode: 0
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _LightingEnabled: 0
+      _M: 1.05
+      _Max: 0
+      _Metallic: 0
+      _Min: 0.59
+      _Mode: 1
+      _NoiseStr: 0.2
+      _NormalStr: 82.15
+      _NormalStrength: 200
+      _OcclusionStrength: 1
+      _Offset: 0.4
+      _Parallax: 0.02
+      _PositionWind: 0.05
+      _S: 0.05
+      _STR: 200
+      _Scale: 0.015
+      _Smooth: 0.48
+      _SmoothnessTextureChannel: 0
+      _SoftParticlesEnabled: 0
+      _SoftParticlesFarFadeDistance: 1
+      _SoftParticlesNearFadeDistance: 0
+      _SpecularHighlights: 1
+      _Speed: 35
+      _SrcBlend: 1
+      _TEX_Min: 0
+      _TEX_PosWind: 0.5
+      _TEX_Smooth: 1
+      _TessValue: 12
+      _TextureInfluence: 0.3
+      _TextureTiling: 0.1
+      _Tiling: 0.02
+      _UVSec: 0
+      _WaveScale: 0
+      _WaveStr: 0
+      _WindSpeed: 0.15
+      _ZWrite: 1
+      __dirty: 0
+    m_Colors:
+      _C1: {r: 0.047169805, g: 0.032751646, b: 0.02744155, a: 0}
+      _C2: {r: 47.93726, g: 5.957053, b: 0, a: 0}
+      _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+      _Color: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 1}
+      _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _FireColor: {r: 11.984314, g: 2.0927403, b: 0, a: 0}
+      _SmokeColor: {r: 0.31132075, g: 0.31132075, b: 0.31132075, a: 0.5294118}
+      _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+      _Tiling_World: {r: 0.05, g: 0.05, b: 0.05, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

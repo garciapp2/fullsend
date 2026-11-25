@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Ethereal_WorlM_UnderWater_SAndWaterfall
+  m_Shader: {fileID: 4800000, guid: 47c78ff229f837546a473d41aa26d99e, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DETAIL_MULX2
+  - _EMISSION
+  - _GLOSSYREFLECTIONS_OFF
+  - _NORMALMAP
+  - _SPECULARHIGHLIGHTS_OFF
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _Diffuse:
+        m_Texture: {fileID: 2800000, guid: f863ab67f3ebbc64d91baa8ee4d3c6e1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BotIntensity: 1.95
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DstBlend: 0
+      _Fade: 6.64
+      _FadeBot: -4.18
+      _FadeHeight: -9.92
+      _FadeHeightBot: 12.45
+      _FadeHeightTop: -57.5
+      _FadeTop: 1.66
+      _FresnPow: 1.95
+      _FresnScale: 3.37
+      _FresnelNoiseSpeed: 0.3
+      _GlossMapScale: 1
+      _Glossiness: 0
+      _GlossyReflections: 0
+      _Intensity: 3.8
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 0.523
+      _Parallax: 0.005
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 0
+      _SrcBlend: 1
+      _TopIntensity: 0.83
+      _UVSec: 0
+      _ZWrite: 1
+      __dirty: 0
+      _textTiling: 0.9
+    m_Colors:
+      _Anim: {r: 0, g: -20, b: 0, a: 0}
+      _AnimDiffuse: {r: 0, g: 0.07, b: 0, a: 0}
+      _AnimGradient: {r: 0, g: 15, b: 0, a: 0}
+      _BotColor: {r: 0.3018868, g: 0.2758352, b: 0.09825561, a: 0}
+      _BottomColor: {r: 0, g: 0.07450981, b: 0.5019608, a: 0}
+      _Color: {r: 0.43137255, g: 0.8117647, b: 0.81960785, a: 1}
+      _EmissionColor: {r: 0.50933313, g: 1.0433807, b: 1.3668181, a: 1}
+      _FresnColor: {r: 0.1254902, g: 0.44313726, b: 0.972549, a: 1}
+      _MidColor: {r: 0.18039216, g: 0.81960785, b: 0.557396, a: 0}
+      _OverallDetailColor: {r: 0, g: 0, b: 0, a: 0}
+      _TopColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

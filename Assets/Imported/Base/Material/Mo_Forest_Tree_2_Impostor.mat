@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mo_Forest_Tree_2_Impostor
+  m_Shader: {fileID: 4800000, guid: efc136e2684207a4f9b9dcc774a8b2fb, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _Albedo:
+        m_Texture: {fileID: 2800000, guid: d8577e972cb5e804c8af947974fa34f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Normals:
+        m_Texture: {fileID: 2800000, guid: cc5ae15ba9edd874295b212d2fc28335, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _AI_AlphaToCoverage: 0
+      _AI_Clip: 0.5
+      _AI_DepthSize: 30.099928
+      _AI_Frames: 16
+      _AI_FramesX: 16
+      _AI_FramesY: 16
+      _AI_ImpostorSize: 30.245953
+      _AI_Parallax: 1
+      _AI_ShadowBias: 0.25
+      _AI_ShadowView: 1
+      _AI_TextureBias: -1
+      _ClipMask: 0.5
+      _DepthSize: 30.099928
+      _Frames: 16
+      _FramesX: 16
+      _FramesY: 16
+      _Hemi: 0
+      _Hue: 0
+      _ImpostorSize: 30.245953
+      _Parallax: 1
+      _TextureBias: -1
+      _TransitionTexInflu: 0
+      _TransitionTexMin: 0
+      _TransitionTexSmooth: 1
+      _Use_Parallax: 0
+    m_Colors:
+      _AI_Offset: {r: 0.11017227, g: 12.809673, b: -0.051709652, a: -0}
+      _AI_SizeOffset: {r: 30.245953, g: 30.099928, b: 0, a: 0}
+      _Color: {r: 0.41846958, g: 0.7372549, b: 0.25490195, a: 1}
+      _HueVariation: {r: 0, g: 0, b: 0, a: 0}
+      _Offset: {r: 0.11017227, g: 12.809673, b: -0.051709652, a: -0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

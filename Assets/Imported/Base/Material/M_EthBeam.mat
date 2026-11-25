@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_EthBeam
+  m_Shader: {fileID: 4800000, guid: 77bdfea8ba4924b439564d99de1b1a10, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHABLEND_ON
+  - _EMISSION
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3005
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _DistTexture:
+        m_Texture: {fileID: 2800000, guid: 29cd0e1f121dc054b98bc0d483f83448, type: 3}
+        m_Scale: {x: 4.94, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Texture:
+        m_Texture: {fileID: 2800000, guid: 3f441c611bec7ae4abdf44588fdb65cf, type: 3}
+        m_Scale: {x: 2, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BaseColorStr: 0.163
+      _Bias: 0
+      _BumpScale: 1
+      _ColorStr: 0
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DirstStr: 1
+      _DistStr: 0.2
+      _DistortAmount: 0.01
+      _DistortScale: 50
+      _DstBlend: 10
+      _Emiss: 1.42
+      _Float0: 30
+      _Float9: 1
+      _GlossMapScale: 1
+      _Glossiness: 0
+      _GlossyReflections: 1
+      _GroundScale: 0.03
+      _H: -2.99
+      _H2: 0
+      _HStr: 0.2
+      _Metallic: 0
+      _Mode: 2
+      _NoisePow: 45
+      _NoiseScale: 200
+      _NoiseStep: 0.01
+      _NormalLerp: 1
+      _OcclusionStrength: 1
+      _Offset: 0
+      _Parallax: 0.02
+      _ParentHeight: 0
+      _Pow: 1.44
+      _Power: 1.3
+      _S: 1
+      _S2: 1
+      _Scale: 1
+      _Scale1: 1
+      _Scroll: -0.02
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 5
+      _TextureScale: 5
+      _TextureStr: 0.146
+      _TrehsholdMax: 25
+      _TrehsholdMin: 3.74
+      _TriplanarScaling: 0.001
+      _UVSec: 0
+      _V: 1
+      _V2: 1
+      _VoronoiFresnelStr: 0
+      _VoronoiScale: 1
+      _ZWrite: 0
+      __dirty: 0
+    m_Colors:
+      _BaseColor: {r: 19.698313, g: 7.967655, b: 0, a: 0}
+      _Color: {r: 1.7364396, g: 0.40896067, b: 2.297397, a: 1}
+      _ColorM: {r: 0, g: 0, b: 0, a: 0}
+      _DirtColor: {r: 0, g: 0.8689971, b: 1, a: 0}
+      _DistScroll: {r: 0.025, g: 0.4, b: 0, a: 0}
+      _EmissionColor: {r: 2.1185474, g: 1.5263355, b: 0.64955455, a: 1}
+      _FresnelColor: {r: 0, g: 1, b: 0.90445805, a: 0}
+      _Ground1: {r: 0.29493544, g: 0.25471696, b: 0.33962262, a: 0}
+      _Ground1_C1: {r: 1, g: 1, b: 1, a: 0}
+      _Ground1_C2: {r: 1, g: 1, b: 1, a: 0}
+      _Ground2: {r: 0.754717, g: 0.6028545, b: 0.25987896, a: 0}
+      _MainColor: {r: 1, g: 1, b: 1, a: 1}
+      _Scroll: {r: -0.025, g: 0.3, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

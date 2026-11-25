@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mo_Mushroom_World_Birch_Tree_4_Impostor
+  m_Shader: {fileID: 4800000, guid: efc136e2684207a4f9b9dcc774a8b2fb, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _Albedo:
+        m_Texture: {fileID: 2800000, guid: 091f8e81f224d0d42b0edbbb46725820, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Normals:
+        m_Texture: {fileID: 2800000, guid: 7748824f0a6a0334299c39db76c61367, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _AI_Clip: 0.5
+      _AI_DepthSize: 28.842535
+      _AI_Frames: 16
+      _AI_FramesX: 16
+      _AI_FramesY: 16
+      _AI_ImpostorSize: 28.803583
+      _AI_Parallax: 1
+      _AI_ShadowBias: 0.25
+      _AI_ShadowView: 1
+      _AI_TextureBias: -1
+      _TransitionTexInflu: 0
+      _TransitionTexMin: 0
+      _TransitionTexSmooth: 1
+    m_Colors:
+      _AI_Offset: {r: 0.20555687, g: 13.676873, b: 0.9330714, a: 0.0021834061}
+      _AI_SizeOffset: {r: 28.803583, g: 28.842535, b: -0.00013646288, a: -0.00013646288}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

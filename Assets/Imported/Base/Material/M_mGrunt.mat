@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_mGrunt
+  m_Shader: {fileID: 4800000, guid: eb254c7d1491e974ab1c6a47fef65cdf, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ENABLECONFETTI_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _Emission:
+        m_Texture: {fileID: 2800000, guid: c53defc33bcb47f4ab31eda420581367, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 69ddeb9a82f29a6419dde5ecc180d5c7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Metal:
+        m_Texture: {fileID: 2800000, guid: 6362d418b0494fa4d9381f43ca7fbc38, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Normal:
+        m_Texture: {fileID: 2800000, guid: d29dd6cb34b01dc44b964c2852e0c6e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _curvaturemask:
+        m_Texture: {fileID: 2800000, guid: d7e0a3b040db9064f8ca4d45ba7ff6a3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _AlphaClip: 0
+      _AlphaToMask: 0
+      _Blend: 0
+      _BlendModePreserveSpecular: 1
+      _BumpScale: 1
+      _CONFETTITIME: 0
+      _ClearCoatMask: 0
+      _ClearCoatSmoothness: 0
+      _ConfettiScale: 55.85
+      _ConfettiScatter: 0.2
+      _Counter: 0
+      _Cull: 2
+      _Cutoff: 0.5
+      _DetailAlbedoMapScale: 1
+      _DetailNormalMapScale: 1
+      _DotsOnly: 0
+      _DstBlend: 0
+      _DstBlendAlpha: 0
+      _EmissionIntensity: 3
+      _EnvironmentReflections: 1
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _H: 0
+      _Metallic: 0
+      _Mode: 0
+      _NormalStr: 1
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _QueueOffset: 0
+      _ReceiveShadows: 1
+      _RimAmount: 0.51
+      _RimColorIntensity: 0.19
+      _RimPower: 1.89
+      _S: 1.03
+      _ShieldAmount: 0
+      _ShineAmount: 0
+      _Smoothness: 0
+      _SmoothnessTextureChannel: 0
+      _SpecularAmount: 3.1
+      _SpecularHighlights: 1
+      _SpecularOpacity: 0.29
+      _SpecularRange: 0.85
+      _SpecularTint: 1
+      _SpecularTintIntensity: 0.09
+      _SrcBlend: 1
+      _SrcBlendAlpha: 1
+      _Surface: 0
+      _UVScale: 1
+      _UVSec: 0
+      _V: 1.2
+      _WorkflowMode: 1
+      _ZWrite: 1
+      __dirty: 0
+      _confettiScatter: 0.5
+      _confettiamount: 1
+      _confettiscale: 32
+      _enableconfetti: 1
+      _rimcolorintensity: 0.252771
+      _specularamount: 10
+      _specularmax: 0.2
+      _specularmin: 0.1
+    m_Colors:
+      _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _RimColor: {r: 0.3132074, g: 2, b: 2, a: 0}
+      _ShaderColor: {r: 2.670157, g: 2.670157, b: 2.670157, a: 1}
+      _ShadowColor: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 0}
+      _Shadows: {r: 0, g: 0.2, b: 0, a: 0}
+      _ShadowsHSV: {r: 0, g: 0, b: 0, a: 0}
+      _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+      _SpecularTintColor: {r: 0.8941177, g: 1, b: 0.50980395, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Snow_StoneRuin_Trimsheet_1_BLTerr
+  m_Shader: {fileID: 4800000, guid: 0fb61f208f7e6a3419bc4630291fa77b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DETAIL_MULX2
+  - _EMISSION
+  - _METALLICGLOSSMAP
+  - _NORMALMAP
+  - _SPECGLOSSMAP
+  m_LightmapFlags: 6
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 794f974c802199b48a80c2636602c580, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _ExtraAddedDetail:
+        m_Texture: {fileID: 2800000, guid: 916162868b26ffb41b31f3a74bc98e55, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 533a947e7eb383d4eb71f1cc6735bfd0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 1, y: 1}
+      _Specular:
+        m_Texture: {fileID: 2800000, guid: 3a624bca0db702d4e9affcd23c8ee8c2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 0
+      _DstBlend: 0
+      _Emis: 1
+      _EmisBoost: 1
+      _GlossMapScale: 1
+      _Glossiness: 0.75
+      _GlossyReflections: 1
+      _H: 0
+      _Metallic: 0
+      _Min: 0
+      _Mode: 0
+      _NormalStr: 0.5
+      _OcclusionStrength: 0.013
+      _Offset: 0
+      _Parallax: 0.005
+      _S: 0.84
+      _Smooth: 0.6
+      _SmoothIntensity: 1
+      _SmoothnessTextureChannel: 0
+      _Specular: 0.63
+      _SpecularHighlights: 1
+      _SpecularIntensity: 0.314
+      _SrcBlend: 1
+      _T_Max: 1
+      _T_Min: 0
+      _TextureInfluence: 1
+      _TextureIntercalation: 0.625
+      _TransitionLength: 2.18
+      _TransitionOffset: 0
+      _TransitionTexInflu: 4.84
+      _TransitionTexMin: -0.12
+      _TransitionTexSmooth: 0.99
+      _UVSec: 0
+      _V: 2.49
+      _WaveScale: 10
+      _WaveStr: 10
+      _ZWrite: 1
+      __dirty: 0
+    m_Colors:
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _ColorAddedDetail: {r: 0.36862746, g: 0.27450982, b: 0.25882354, a: 1}
+      _ColorMainText: {r: 0.1764706, g: 0.1764706, b: 0.41568628, a: 1}
+      _Emission: {r: 1, g: 1, b: 1, a: 1}
+      _EmissionColor: {r: 0.7510772, g: 1.548365, b: 2.0589876, a: 1}
+      _ShineColor: {r: 0, g: 4.237095, b: 2.1502187, a: 1}
+      _SpecColor: {r: 0.5383588, g: 0.5861026, b: 0.6509434, a: 1}
+      _Tiling: {r: 3, g: 3, b: 3, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

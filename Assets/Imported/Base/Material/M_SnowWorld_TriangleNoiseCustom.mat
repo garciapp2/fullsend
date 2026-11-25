@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_SnowWorld_TriangleNoiseCustom
+  m_Shader: {fileID: 4800000, guid: d44d353a465acbd4bb48b3f62a09c2f2, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DETAIL_MULX2
+  - _EMISSION
+  - _GLOSSYREFLECTIONS_OFF
+  - _NORMALMAP
+  - _SPECULARHIGHLIGHTS_OFF
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _DistortT:
+        m_Texture: {fileID: 2800000, guid: f591aee3c4a3a0e4f9efb2982a4a67d4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Noise:
+        m_Texture: {fileID: 2800000, guid: ef55396337248074d9b354c0034a2a15, type: 3}
+        m_Scale: {x: 1, y: 2}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BotIntensity: 1.95
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DistScale: 0.1
+      _DistrtStr: 0.3
+      _DstBlend: 0
+      _Fade: -6.67
+      _FadeHeight: 55
+      _FresnPow: 1
+      _FresnScale: 0.7
+      _FresnelNoiseSpeed: 0.2
+      _FresnelStep: 0.73
+      _FresnelStr: 1
+      _GlossMapScale: 1
+      _Glossiness: 0
+      _GlossyReflections: 0
+      _Metallic: 0
+      _Mode: 0
+      _NormalStr: 1
+      _OcclusionStrength: 0.523
+      _Offset: 1
+      _Parallax: 0.005
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 0
+      _SrcBlend: 1
+      _TopIntensity: 7.51
+      _TransitionLength: 25
+      _TransitionOffset: 1.1
+      _TransitionTexInflu: 0
+      _TransitionTexMin: 0
+      _TransitionTexSmooth: 1
+      _UVSec: 0
+      _WaveScale: 10
+      _WaveStr: 22.4
+      _ZWrite: 1
+      __dirty: 0
+      _textTiling: 1.17
+    m_Colors:
+      _Anim: {r: 0, g: -1, b: 0, a: 0}
+      _Anim1: {r: 0, g: -1, b: 0, a: 0}
+      _AnimFresnel: {r: 0, g: 1, b: 0, a: 0}
+      _AnimTriangles: {r: 0, g: -0.3, b: 0, a: 0}
+      _BottomColor: {r: 0.3584906, g: 0.113296546, b: 0.17958136, a: 0}
+      _Color: {r: 25.99207, g: 0, b: 1.9333005, a: 1}
+      _ColorAdd: {r: 0, g: 0, b: 0, a: 0}
+      _DistScroll: {r: 0.05, g: 0.05, b: 0, a: 0}
+      _DistScroll1: {r: 0, g: 0, b: 0, a: 0}
+      _EmissionColor: {r: 0.50933313, g: 1.0433807, b: 1.3668181, a: 1}
+      _FresnColor: {r: 0, g: 0, b: 0, a: 1}
+      _Fresnel: {r: 0.1, g: 8, b: 0, a: 0}
+      _GradientColor: {r: 0, g: 0, b: 0, a: 0}
+      _OverallDetailColor: {r: 0, g: 0, b: 0, a: 0}
+      _Remap: {r: 0.12446353, g: 0.15450642, b: 0, a: 0}
+      _Scroll: {r: 0.01, g: -0.01, b: 0, a: 0}
+      _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+      _Tiling: {r: 2, g: 2, b: 2, a: 0}
+      _Tiling_World: {r: 0.27, g: 0.19, b: 1, a: 0}
+      _TrianglesColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

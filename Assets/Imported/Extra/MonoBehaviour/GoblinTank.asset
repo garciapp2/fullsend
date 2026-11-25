@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16d6193f1b272d88613c059582a0608b, type: 3}
+  m_Name: GoblinTank
+  m_EditorClassIdentifier:
+  AnimationFPS: 6
+  Animations:
+  - Name: Walking
+    Meshes:
+    - {fileID: 4300000, guid: 7f9e5f8909ba5214880b49be8eaf3d21, type: 2}
+    - {fileID: 4300000, guid: 32a2f79165cea0e468f46fd3b24c7fc2, type: 2}
+    - {fileID: 4300000, guid: a385191fc66396a4791c5bc037dcd48d, type: 2}
+    - {fileID: 4300000, guid: fe56de31ca4623d4c9d77a8b95421f04, type: 2}
+    - {fileID: 4300000, guid: 63018898cc015ed49a88d6c01b31fd54, type: 2}
+    - {fileID: 4300000, guid: 53f9f758b8bb36b449ba47225886a051, type: 2}
+    - {fileID: 4300000, guid: 3c1cb288e46129c4aa029f0f7dfda451, type: 2}
+    - {fileID: 4300000, guid: 507a42ebb113cd944afab8fc55ea1c3e, type: 2}
+    - {fileID: 4300000, guid: 1def366d0e2f1b94098a25dab4236a58, type: 2}
+    - {fileID: 4300000, guid: 0360982a21e7d09419fd03f6e7029b5f, type: 2}
+    - {fileID: 4300000, guid: 22b29c8a1925659418b8a14831b1a8e0, type: 2}
+    - {fileID: 4300000, guid: 193ce8fee4da18f47936297506b65268, type: 2}

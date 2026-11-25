@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16d6193f1b272d88613c059582a0608b, type: 3}
+  m_Name: Skeleton animations
+  m_EditorClassIdentifier:
+  AnimationFPS: 8
+  Animations:
+  - Name: Moving
+    Meshes:
+    - {fileID: 4300000, guid: 28e3e0fe3758efa4db8d3e98571b3a3d, type: 2}
+    - {fileID: 4300000, guid: 2598796b78e1d054ca6ede1f1f48885f, type: 2}
+    - {fileID: 4300000, guid: 6a27ef9c4ee3dd948a818601df3f8672, type: 2}
+    - {fileID: 4300000, guid: a48b1114513af0b4e88868abc410e578, type: 2}
+    - {fileID: 4300000, guid: f7fb79eba142e9743912069f430fd630, type: 2}
+    - {fileID: 4300000, guid: a5f6a7ab7b7e8c542abd87a85068afca, type: 2}
+    - {fileID: 4300000, guid: b46604cbd194bb446971a036641302b3, type: 2}
+    - {fileID: 4300000, guid: eeccb22b48d132543bd0545a9a7467bd, type: 2}

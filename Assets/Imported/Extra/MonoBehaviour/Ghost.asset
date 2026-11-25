@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16d6193f1b272d88613c059582a0608b, type: 3}
+  m_Name: Ghost
+  m_EditorClassIdentifier:
+  AnimationFPS: 6
+  Animations:
+  - Name: Walking
+    Meshes:
+    - {fileID: 4300000, guid: ce267be7e7eef3249adbe6e982c81ceb, type: 2}
+    - {fileID: 4300000, guid: 7883a2d91008c214ebe38a38d31636a1, type: 2}
+    - {fileID: 4300000, guid: 5b8cf20a3f3a0b741ad42c6edb1f71f5, type: 2}
+    - {fileID: 4300000, guid: 39d9dc68f73f0134c942b4cb26926ba6, type: 2}
+    - {fileID: 4300000, guid: a01394e13a1c59f4aafe8b80742178c4, type: 2}
+    - {fileID: 4300000, guid: 686a4f3bc6cb62448ba5890d8f09a906, type: 2}
+    - {fileID: 4300000, guid: 40cdb753d0a15e848a854110df0e7f99, type: 2}
+    - {fileID: 4300000, guid: 41813c361759dde4d89f0304b6ce23a8, type: 2}
+    - {fileID: 4300000, guid: 991195700961f6948baa55974433920b, type: 2}
+    - {fileID: 4300000, guid: 26b0658432274534681be122adb33825, type: 2}
+    - {fileID: 4300000, guid: 9810dcd2913618741a9f248e8bc5c918, type: 2}
+    - {fileID: 4300000, guid: dd49dce74d47ada44b01f119a13276c3, type: 2}

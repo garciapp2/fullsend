@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_VFX_Coin
+  m_Shader: {fileID: 4800000, guid: af20c9febe5ba404590d0621225069c7, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _CUBE:
+        m_Texture: {fileID: 8900000, guid: 243c074310ec8124397157f083ed186a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Texture:
+        m_Texture: {fileID: 2800000, guid: 9968102fbf1b413488489a0f071b2fde, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Texture0:
+        m_Texture: {fileID: 2800000, guid: 0c45a8ec7836bf744a889b17308365a8, type: 3}
+        m_Scale: {x: 0.1, y: 0.1}
+        m_Offset: {x: 0, y: 0}
+      _Texture1:
+        m_Texture: {fileID: 2800000, guid: 710d6da9ec2195e498a8b881b9d83709, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+      _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DstBlend: 0
+      _Emis: 4
+      _FadeAmount: 0.17
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _H: 0
+      _Metallic: 0
+      _Min: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Offset: 0
+      _Parallax: 0.02
+      _S: 1
+      _Smooth: 0.6
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _T_Max: 1
+      _T_Min: 0
+      _UVSec: 0
+      _V: 4
+      _WaveScale: 10
+      _WaveStr: 10
+      _ZWrite: 1
+      __dirty: 0
+    m_Colors:
+      _BreakPos: {r: 0, g: 0, b: 0, a: 0}
+      _Color: {r: 0, g: 0, b: 0, a: 1}
+      _Color0: {r: 0, g: 4.710872, b: 11.984315, a: 0}
+      _Color1: {r: 2, g: 1.3612566, b: 0, a: 0}
+      _Color2: {r: 0, g: 0.6745103, b: 1.4980394, a: 0}
+      _Color3: {r: 1.3348534, g: 0, b: 1.4980392, a: 0}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _ShineColor: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
+      _Tiling: {r: 50, g: 50, b: 50, a: 0}
+      _Tiling_World: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0
